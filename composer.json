@@ -1,0 +1,10 @@
+{
+  "name": "allpaypayz/cms-woocommerce",
+  "description": "Allpaypayz payment gateway for WooCommerce.",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1",
+    "allpaypayz/sdk": "^0.1"
+  }
+}
